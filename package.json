@@ -1,0 +1,22 @@
+{
+  "name": "gatsby-plugin-sass-bulk-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tombrierley@github.com/tombrierley/gatsby-plugin-sass-bulk-import.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tombrierley/gatsby-plugin-sass-bulk-import/issues"
+  },
+  "homepage": "https://github.com/tombrierley/gatsby-plugin-sass-bulk-import#readme",
+  "devDependencies": {
+    "sass-bulk-import-loader": "^0.1.1"
+  }
+}
